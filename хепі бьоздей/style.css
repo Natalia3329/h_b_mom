@@ -1,0 +1,32 @@
+.sha {
+    box-shadow: 1px 1px 10px 5px gray
+}
+
+.name {
+    text-decoration: underline;
+}
+
+p {
+    text-align: center;
+}
+
+.me {
+    width: 35vw;
+}
+
+.to {
+    background-color: rgba(156, 236, 5, 0.623);
+}
+
+.tex {
+    color: hotpink;
+}
+
+.ave {
+    color: aliceblue;
+    text-decoration: wavy;
+}
+
+.ti {
+    background-color: antiquewhite;
+}
